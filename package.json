@@ -1,0 +1,24 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FacuMartinezVidal/TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FacuMartinezVidal/TypeScript/issues"
+  },
+  "homepage": "https://github.com/FacuMartinezVidal/TypeScript#readme",
+  "dependencies": {
+    "prettier": "^2.7.1",
+    "typescript": "^4.9.3"
+  }
+}
