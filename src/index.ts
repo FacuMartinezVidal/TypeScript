@@ -15,4 +15,8 @@
 // const result = add(number1, number2, printResult, phrase);
 // console.log(result);
 
-//objetc types
+//object types
+const person = object = {
+  name: "John",
+  age: 16,
+});
