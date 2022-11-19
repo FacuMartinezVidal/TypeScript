@@ -19,4 +19,4 @@
 const person = object = {
   name: "John",
   age: 16,
-});
+}); 
