@@ -225,3 +225,11 @@
 //   "user-input"
 // )! as HTMLInputElement;
 // UserInputElement.value = "Hi there";
+
+//decorator
+class Person {
+  name = "max";
+  constructor() {
+    console.log("Creating person object...");
+  }
+}
